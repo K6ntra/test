@@ -1459,7 +1459,7 @@ InsertTheme(SelectedFrame, "Theme")
     local Indicator = Create("Frame", SliderBar, {
     Size = UDim2.fromScale(0.3, 1),
     BorderSizePixel = 0,
-    BackgroundColor3 = Color3.fromRGB(251, 251, 251)})
+    BackgroundColor3 = Color3.fromRGB(47, 47, 47)})
   Make("Corner", Indicator)
   
   local gradient = Instance.new("UIGradient")
