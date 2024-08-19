@@ -21,7 +21,7 @@ local featherlib = {
       ["Color Theme"] = Color3.fromRGB(251, 251, 251),
       ["Color Text"] = Color3.fromRGB(243, 243, 243),
       ["Color Dark Text"] = Color3.fromRGB(180, 180, 180),
-      ["Feather Icon"] = "rbxassetid://94923298565478"
+      ["Feather Icon"] = "rbxassetid://127391580969450"
     }
   },
   Info = {
