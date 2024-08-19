@@ -467,7 +467,7 @@ function stellarlib:MakeWindow(Configs)
     Position = UDim2.new(0, 5, 0.5, 0),
     AnchorPoint = Vector2.new(0, 0.5),
     BackgroundTransparency = 1,
-    Image = Theme["stellar Icon"]
+    Image = Theme["Stellar Icon"]
 })
   
   local Title = InsertTheme(Create("TextLabel", TopBar, {
