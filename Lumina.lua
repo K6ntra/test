@@ -476,7 +476,7 @@ function stellarlib:MakeWindow(Configs)
     AutomaticSize = "XY",
     Text = WTitle,
     TextXAlignment = "Left",
-    TextSize = 14,
+    TextSize = 10,
     TextColor3 = Theme["Color Text"],
     BackgroundTransparency = 1,
     Font = Enum.Font.GothamMedium,
