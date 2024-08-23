@@ -471,12 +471,12 @@ function stellarlib:MakeWindow(Configs)
 })
   
   local Title = InsertTheme(Create("TextLabel", TopBar, {
-    Position = UDim2.new(0, 24, 0.5, 0),
+    Position = UDim2.new(0, 24, 0.55, 0),
     AnchorPoint = Vector2.new(0, 0.5),
     AutomaticSize = "XY",
     Text = WTitle,
     TextXAlignment = "Left",
-    TextSize = 10,
+    TextSize = 12,
     TextColor3 = Theme["Color Text"],
     BackgroundTransparency = 1,
     Font = Enum.Font.GothamMedium,
