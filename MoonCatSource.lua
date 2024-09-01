@@ -21,7 +21,7 @@ local mooncatlib = {
       ["Color Theme"] = Color3.fromRGB(251, 251, 251),
       ["Color Text"] = Color3.fromRGB(243, 243, 243),
       ["Color Dark Text"] = Color3.fromRGB(180, 180, 180),
-      ["MoonCat Icon"] = "rbxassetid://99443451066725"
+      ["MoonCat Icon"] = "rbxassetid://78822473997780"
     }
   },
   Info = {
